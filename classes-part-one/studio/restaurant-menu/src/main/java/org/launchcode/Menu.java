@@ -7,5 +7,4 @@ public class Menu {
     private Date menuDate;
     private ArrayList<MenuItem> menuItem = new ArrayList<>();
 
-
 }
